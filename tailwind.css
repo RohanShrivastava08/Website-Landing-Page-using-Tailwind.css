@@ -1,0 +1,10 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+/*
+I’ve written a few thousand words
+ on why traditional “semantic class names” are the reason 
+ CSS is hard to maintain, but the truth is you’re never going
+*/
